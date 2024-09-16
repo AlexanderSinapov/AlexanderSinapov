@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚My name is Alexander Sinapov. I am currently studying applied programming in High Technology Vocational High School "A.S Popov", Sofia, Bulgaria.<br>
+📚My name is Alexander Sinapov. I am currently studying applied programming in High Technology Vocational School "A.S Popov", Sofia, Bulgaria.<br>
 
 
 ## 🌐 Socials:
